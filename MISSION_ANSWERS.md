@@ -61,8 +61,8 @@
 
 ### Exercise 3.1: Railway deployment
 
-- **URL:** `https://your-app.railway.app` *(điền URL thật sau khi deploy)*
-- **Platform:** Railway
+- **URL:** `https://lab12-buiminhngoc-2a202600354.onrender.com`
+- **Platform:** Render
 - **Deploy steps:**
   ```bash
   npm i -g @railway/cli
